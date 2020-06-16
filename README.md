@@ -1,4 +1,5 @@
-# Algorithms-part-I
-Course from coursera from Princeton University "Algorithms, part I"
+# Algorithms courses by Princeton University (part I and part II)
 
-course: https://www.coursera.org/learn/algorithms-part1
+
+Algorithms course by Princeton University part I: https://www.coursera.org/learn/algorithms-part1 <br>
+Algorithms course by Princeton University part II: https://www.coursera.org/learn/algorithms-part2
